@@ -3,7 +3,7 @@ import  React ,{useState,useEffect} from 'react';
 const HeaderFunction = ({ speed, msg }) => {
     const Typer = ({ speed , mess }) => 
   {
-    console.log(speed+" "+mess);
+    
     const [idx, setidx] = useState(0);
     useEffect(() => {
       const timer = window.setInterval(() => setidx((v) => v + 1), speed);

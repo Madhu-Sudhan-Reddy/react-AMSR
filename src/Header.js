@@ -37,7 +37,7 @@ function Header() {
    <HeaderFunction speed={150} msg={"Madhu Sudhan Reddy Aileni"} />
    </div>
    <div className="intro-role">
-   <HeaderFunction speed={150} msg={"Software Developer"} />
+   <HeaderFunction speed={150} msg={"Software Developer"} /><span>|</span>
    </div>
    {/* <HeaderFunction name="Madhu Sudhan Reddy" className="intro-name"/> */}
 </header>
