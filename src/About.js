@@ -9,8 +9,13 @@ function About() {
         </div>
         <div className="About-description">
        <blockquote className="About-statement">
-       "As a master's student in Big Data Analytics, I am passionate about using data to solve complex problems and drive business decisions. With a strong foundation in statistical analysis and machine learning, I am eager to apply my skills as a data scientist or machine learning engineer. My experience has given me a unique perspective on how to leverage data to drive innovation and growth. I am constantly seeking out new challenges and opportunities to grow my skills and make a positive impact through data analytics." 
-       </blockquote>
+"As a Master's student in Information Technology from the University of Cincinnati, I possess a strong academic foundation coupled with practical expertise. 
+Proficient in programming languages including Java and JavaScript, as well as technologies such as React JS and Node JS, I have demonstrated my capabilities through roles at both the University of Cincinnati and IBM. 
+At the University of Cincinnati, I spearheaded the implementation of Agile Methodology, resulting in enhanced development efficiency and improved user engagement metrics. 
+During my tenure at IBM, I excelled in designing and developing highly responsive UI components, implementing modular architecture, and optimizing website performance through advanced React JS techniques. 
+My adeptness in utilizing tools such as JIRA and Confluence for meticulous issue tracking and comprehensive documentation underscores my commitment to delivering high-quality solutions.
+"      
+ </blockquote>
        <div>
         <img src={AMSRpic} className="About-pic" alt="logo" /> 
        </div >

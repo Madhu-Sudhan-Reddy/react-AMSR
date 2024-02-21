@@ -1,11 +1,14 @@
 import './App.css';
+import resumeDoc from './resume.pdf';
 
 function Resume() {
     return (
-     <div>
+    <div>
 <section className="Resume">
 <div className="head-word">
-Download Resume
+<a href={resumeDoc} download="Madhu_Sudhan_Reddy_Aileni_Resume">
+   <button className="buttonDownload">Resume Download</button>
+</a>
   </div>
   </section>
   <section className="Reach-out">
@@ -20,7 +23,7 @@ Download Resume
 
   </div>
   </section>
-  </div>  
+  </div>
     );
 }
 
