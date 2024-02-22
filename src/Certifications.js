@@ -1,17 +1,16 @@
 import './App.css';
-import html5 from './Coursera_HTML5.pdf'; 
-import css3 from './Coursera_CSS3.pdf'; 
-import cjs from './Coursera_JS.pdf'; 
-import admin from './S_Administrator.pdf';
-import advancedadmin from './S_Advanced_Admin.pdf';
-import associate from './S_Associate.pdf';
-import pab from './S_PlatformAppBuilder.pdf';
-import pd from './S_PlatformDeveloper.pdf';
-import ma from './Microsoft.pdf';
-import ibmc from './IBM_Cloud.png';
+import html5 from './images/Coursera_HTML5.png'; 
+import css3 from './images/Coursera_CSS3.png'; 
+import cjs from './images/Coursera_JS.png'; 
+import responsiveDesign from './images/Coursera_ResponsiveDesign.png'; 
+import admin from './images/S_Administrator.png';
+import advancedadmin from './images/S_Advanced_Admin.png';
+import associate from './images/S_Associate.png';
+import pab from './images/S_PlatformAppBuilder.png';
+import pd from './images/S_PlatformDeveloper.png';
+import ma from './images/Microsoft.png';
+import ibmc from './images/IBM_Cloud.png';
 
-
-import responsiveDesign from './Coursera_ResponsiveDesign.pdf'; 
 function Certifications() {
     return (
         <section className="Certifications">

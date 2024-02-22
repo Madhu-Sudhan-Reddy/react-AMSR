@@ -1,6 +1,6 @@
 import './App.css';
-import backgroundPic from './bg1.avif';
-import circularPic from './circular.jpg';
+import backgroundPic from './images/bg1.avif';
+import circularPic from './images/circular.jpg';
 import HeaderFunction from './Header-function.js';
 import React from 'react';
 function Header() {
