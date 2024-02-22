@@ -1,4 +1,4 @@
-import AMSRpic from './AMSRpic.jpg';
+import AMSRpic from './images/AMSRpic.jpg';
 import './App.css';
 
 function About() {

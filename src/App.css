@@ -230,21 +230,20 @@
     padding:2vh 2vh 2vh 5vh;
   }
   .About-statement{
-    background-color:grey;
     justify-content: center;
     align-items: center;
     text-align: center;
     font-size: 2vw;
     font-style: italic;
-    border: 1vh double orange;
+    border: 1vh double white;
     color:white;
     padding:2vw 1vw 2vw 2vw;
     max-width:70vw;
     max-height: 25vh;
     margin:0 5vw 0 0;
     flex: 1;
-    overflow: auto;
-    border-radius: 5vh; 
+    /* overflow: auto; */
+    background-color:grey;
   }
   
   .About-pic{
