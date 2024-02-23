@@ -1,8 +1,8 @@
 import './App.css';
-import resumeDoc from './resume.pdf';
-import linkedIn from './LinkedIn_Logo.png';
-import gitHub from './github.png';
-import leetCode from './LeetCode.png';
+import resumeDoc from './images/resume.pdf';
+import linkedIn from './images/LinkedIn_Logo.png';
+import gitHub from './images/github.png';
+import leetCode from './images/LeetCode.png';
 
 function Resume() {
     return (
