@@ -24,7 +24,7 @@ function Resume() {
   <section className="Footer-place">
 <div className="footer-word">
 <div>    
-      <a href="https://www.linkedin.com/in/madhusudhan-aileni/" target="_blank" rel="noopener noreferrer"> <img src={linkedIn} alt="LinkedIn logo" className="external-logo"></img></a>
+      <a href="https://www.linkedin.com/in/madhusudhanredy/" target="_blank" rel="noopener noreferrer"> <img src={linkedIn} alt="LinkedIn logo" className="external-logo"></img></a>
 
     </div>
     <div>
